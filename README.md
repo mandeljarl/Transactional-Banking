@@ -3,7 +3,7 @@ Documentación - CIB Transactional Banking
 
 Transactional Banking Documentación
 Carpeta con documentación general:
-De modo introductorio, esta será la carpeta que contendrá toda la documentación del proyecto:
+A modo introductorio, esta será la carpeta que contendrá toda la documentación del proyecto:
 https://drive.google.com/a/bbvadata.com/?tab=mo#folders/0B2bl2Kvl02TLdVZ2dGg2X3p2cmM
 Este documento tendrá como referencia el dashboard realizado para las empresas amigas
 
