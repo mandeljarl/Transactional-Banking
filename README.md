@@ -12,7 +12,6 @@ Tuenti Technologies: 6190. Otras actividades de telecomunicación
 AXA: 6511. Seguros de vida
 Profesionales Martín Antón: 6832. Gestión y administración de la propiedad inmobiliaria
 Carga de tablas:
-
 La primera tabla a cargar es la que contiene a las empresas que nos pasó CIB en verano de 2014. El enlace de la tabla excel es el siguiente: https://drive.google.com/a/bbva.com/file/d/0B2bl2Kvl02TLQ1hXa0ZTaWk1OWM/view?usp=sharing
 Para la elaboración de dashboards para “empresas amigas”, se ha incluido a mano Tuenti Technologies puesto que no estaba en un principio pero sí que teníamos información tanto de recibos como de adeudos domiciliados (en cuanto tengamos las tablas de emisores también tendremos adeudos facturados y podremos hacer la división entre recibos domiciliados y facturados)
 
